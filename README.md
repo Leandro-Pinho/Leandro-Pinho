@@ -1,4 +1,4 @@
-## Hi there! I am the Leandro_Pinho
+## Hi there! I am the Leandro Pinho
 - I'm currently learning Javascript and react ...
 
 <div>
