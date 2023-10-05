@@ -1,5 +1,4 @@
-## Hi there! I am the Leandro Pinho.
-## Passionate about technology and I believe it brings many benefits to humanity.
+## Hi there! I am the Leandro Pinho. <br/> Passionate about technology and I believe it brings many benefits to humanity.
 - I'm currently learning Javascript and react ...
 
 <div>
