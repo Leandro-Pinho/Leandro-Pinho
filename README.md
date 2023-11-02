@@ -3,7 +3,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Pinho&show_icons=true&theme=transparent">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Pinho&layout=donut">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Pinho&layout=donut&theme=transparent">
 </div>
  
 ## Estou aprendendo
